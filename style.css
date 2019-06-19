@@ -1,0 +1,45 @@
+p.center{
+	text-align: center;
+}
+#header, #main, #footer {
+	padding-bottom:12px;	
+	font-weight:400;
+}
+h1{
+	font-size:36px;
+	margin-bottom:0; 
+}
+h2{
+	font-size:32px;
+	border-bottom:solid 1px gray;
+	margin-bottom:8px;   
+}
+h3{
+	font-size:20px; 
+	margin-bottom:0px; 
+}
+#header{
+	margin-bottom:32px;
+	text-align:center;
+}
+#footer{
+	margin-top:64px;
+	text-align:center; 
+}
+p#left{
+	text-align:left;
+}
+#spisok1{
+list-style-type:disk;
+}
+#spisok2{
+list-style-type:disk;
+}
+#spisok3{
+list-style-type:disk;
+}
+#center1name{
+	text-align:center;
+	font-weight:bold;
+}
+
